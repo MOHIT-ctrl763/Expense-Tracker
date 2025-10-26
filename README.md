@@ -23,11 +23,6 @@ CSS – Styling and layout
 
 JavaScript – Logic, interactivity, and data management
 
-📸 Preview
-
-(Add a screenshot of your app here — for example)
-![Expense Tracker Screenshot](./screenshot.png)
-
 🧠 How It Works
 
 Enter a transaction name and amount.
